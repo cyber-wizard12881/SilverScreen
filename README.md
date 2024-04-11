@@ -45,8 +45,8 @@ SilverScreen essentially does 2 things: <br>
   * You should see the output like something as below:
    - The Movies Library
     ![movies library](SS_001.png)
-   - The Hamming Match or Exact Match Query Results <br>
-   <img src="SS_002.png" height="200" width="150">
+   - The Hamming Match or Exact Match Query Results <br/>
+     <img src="SS_002.png" height="200" width="150"/>
    - The My Favorite or Liked Movie list
    ![my favorite movies](SS_003.png)
    - The Recommendations based on my Liking or preferences churned via Cosine Similarity
